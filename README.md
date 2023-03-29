@@ -1,6 +1,6 @@
 # Docker Image for the analysis of BOSE compression tests
 
-[![Binder badge](https://static.mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyter/docker-stacks/main?urlpath=lab/tree/README.ipynb "Launch a jupyter/base-notebook container on mybinder.org")
+[![Binder badge](https://static.mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gabnasello/bose-compression/HEAD "Launch a jupyter/base-notebook container on mybinder.org")
 
 Repository is a fork of [jupyter/docker-stacks/](https://github.com/jupyter/docker-stacks/)
 
