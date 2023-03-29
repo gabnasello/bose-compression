@@ -3,7 +3,7 @@
 
 # https://hub.docker.com/r/jupyter/base-notebook/tags
 ARG VERSION=2023-03-27
-ARG BASE_CONTAINER=jupyter/r-notebook:$VERSION
+ARG BASE_CONTAINER=jupyter/base-notebook:$VERSION
 FROM $BASE_CONTAINER
 
 # Fix: https://github.com/hadolint/hadolint/wiki/DL4006
