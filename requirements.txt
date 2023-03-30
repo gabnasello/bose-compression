@@ -1,7 +1,0 @@
-lckr-jupyterlab-variableinspector
-numpy
-matplotlib
-pandas
-seaborn
-openpyxl
-statsmodels
